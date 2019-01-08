@@ -7,15 +7,18 @@ TESTER
 
 MSG command
 ------
-> Msg command is to Give instructions to the user on how to proceed with the test Procedure
-> msg command
+> msg command is to Give instructions to the user on how to proceed with the test Procedure
+> msg Syntax
 ```
-msg,Power,Power OFF
+msg,Window Caption,Message to be shown in the Pop up window
+```
+>msg sample
+```
+msg,Power,Power Off the Unit
 ```
 ACK command
 ------
-> Msg command is to Give instructions to the user on how to proceed with the test Procedure
-> msg command
+> ack command is to get the acknowledgement from the Tester and record a value
 ```
-msg,Power,Power OFF
+ack,,Power OFF
 ```
