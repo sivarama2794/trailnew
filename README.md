@@ -7,7 +7,8 @@ TESTER
 
 MSG command
 ------
-> msg command is to Give instructions to the user on how to proceed with the test Procedure
+msg command is to Give instructions to the user on how to proceed with the test Procedure
+
 > msg Syntax
 ```
 msg,Window Caption,Message to be shown in the Pop up window
