@@ -1,4 +1,5 @@
 # HTS Help File
+This is intended as a quick reference on how to work with the Howell Test Software and also to showcase different features of HTS.
 
 TESTER
 ======
