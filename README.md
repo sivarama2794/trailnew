@@ -1,6 +1,6 @@
 HTS Help File
 ======
-Below are the steps and general syntax on how to run the Howell Test Software. 
+> Below are the steps and general syntax on how to run the Howell Test Software. 
 
 MSG command
 ======
