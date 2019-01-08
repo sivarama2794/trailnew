@@ -1,6 +1,9 @@
-HTS Help File
+#HTS Help File
+
+TESTER
 ======
 > Below are the steps and general syntax on how to run the Howell Test Software. 
+
 
 MSG command
 ------
