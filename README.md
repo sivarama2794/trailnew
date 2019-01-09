@@ -14,7 +14,7 @@ msg command is to Give instructions to the user on how to proceed with the test 
 ```
 msg,Window Caption,Message to be shown in the Pop up window
 ```
->msg sample
+>msg Sample
 ```
 msg,Power,Power Off the Unit
 ```
