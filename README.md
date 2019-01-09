@@ -6,9 +6,9 @@ Syntax
 > Below are the general syntax on how to write commands.
 
 
-MSG command
+A825Tx command
 ------
-msg command is to Give instructions to the user on how to proceed with the test Procedure
+a825Tx command is used
 
 > msg Syntax
 ```
