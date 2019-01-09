@@ -1,9 +1,9 @@
 # HTS Help File
 This is intended as a quick reference on how to work with the Howell Test Software and also to showcase different features of HTS.
 
-TESTER
+Syntax
 ======
-> Below are the steps and general syntax on how to run the Howell Test Software. 
+> Below are the general syntax on how to write commands.
 
 
 MSG command
@@ -17,10 +17,4 @@ msg,Window Caption,Message to be shown in the Pop up window
 >msg sample
 ```
 msg,Power,Power Off the Unit
-```
-ACK command
-------
-> ack command is to get the acknowledgement from the Tester and record a value
-```
-ack,,Power OFF
 ```
